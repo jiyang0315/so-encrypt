@@ -1,0 +1,1 @@
+python -m nuitka --follow-imports --module /home/jiyang/jiyang/Projects/so_test/correct_by_rules/detector/leader_detector.py
